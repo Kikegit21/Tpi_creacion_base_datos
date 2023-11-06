@@ -1,4 +1,4 @@
-# Tpi_creacion_base_datos
+# Tpi_creacion_base_datos - Luis Enrique Díaz Rodríguez
 
 base de datos creada en mysql
 ![MySQL Workbench 5_11_2023 7_20_25 p  m](https://github.com/Kikegit21/Tpi_creacion_base_datos/assets/90437345/e442e2aa-b3d6-4c53-9c65-686aefda680a)
